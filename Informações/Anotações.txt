@@ -1,0 +1,13 @@
+Após clonar repositório para a máquina através do Git Bash, foi criado o diretório chamado Informações e nele um arquivo .txt com as informações de anotações.
+
+git init - O comando ultilizado para inicializar uma pasta no repositório git.
+
+git clone - Clona repositório na máquina.
+
+git add. - Adiciona o diretório ao repositório no GitHub.
+
+git status - Atualiza a modificação realizada no repositório na máquina.
+
+git push - Empurra para o GitHub o repositório.
+
+git commit - Atualiza o repositório no GitHub. 
